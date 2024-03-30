@@ -1,1 +1,1 @@
-# photo-send-bot
+Automated Photo Transmission Bot
