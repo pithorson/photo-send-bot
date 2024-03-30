@@ -12,7 +12,7 @@ import tkinter as tk
 # Set up ChromeOptions
 options = Options()
 options.add_argument("profile-directory=Profile 1")
-options.add_argument("C:/Users/Thaagam/OneDrive/Desktop/bot/college sent bot/swetha/chrome-data")
+options.add_argument("C:/Users/computer/OneDrive/Desktop/bot/college sent bot/name/chrome-data")
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
 driver = webdriver.Chrome(options=options)
